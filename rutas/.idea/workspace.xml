@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="/usr/local/web/esver20" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -43,7 +43,11 @@
       <workItem from="1585252121843" duration="52000" />
       <workItem from="1585256989248" duration="4990000" />
       <workItem from="1585267074779" duration="3621000" />
-      <workItem from="1585329581391" duration="7268000" />
+      <workItem from="1585329581391" duration="7866000" />
+      <workItem from="1585354286879" duration="625000" />
+      <workItem from="1585359458275" duration="638000" />
+      <workItem from="1585415205949" duration="630000" />
+      <workItem from="1585689542243" duration="5677000" />
     </task>
     <servers />
   </component>
@@ -56,6 +60,10 @@
     </state>
     <state x="1931" y="172" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585338288113" />
     <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1585269872155" />
+    <state x="2109" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585359499424">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2109" y="297" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585359499424" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585252127154">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
